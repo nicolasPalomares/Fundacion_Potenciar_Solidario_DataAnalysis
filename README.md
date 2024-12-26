@@ -20,6 +20,7 @@ el armado de un informe interactivo que permita extraer insights valiosos.
 * Indicadores clave (KPIs) para un resumen rápido de métricas importantes.
 
 ## Estructura del Proyecto
+```
 F:.
 │   FundacionPotenciarSolidario_Informe_de_Ingresos_y_Egresos.pbix
 │   fundacion_potenciar_solidario.ipynb
@@ -53,5 +54,6 @@ F:.
         page_4.jpg
         page_5.jpg
         page_6.jpg
+```
 
 En donde en la carpeta "original" se encuentran los datos originales, tal cual fueron entregados por la Fundación, en la carpeta "clean" se encuentran los datos limpios y transformados, en "images" están las imágenes utilizadas para el dashboard en Power BI, y en "visuals" hay elementos visuales para una visualización rápida del informe, como un archivo .pdf e imágenes de las diferentes páginas del mismo.
