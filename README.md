@@ -18,3 +18,40 @@ el armado de un informe interactivo que permita extraer insights valiosos.
 * Gráficos de barras y líneas para analizar tendencias temporales.
 * Mapas geográficos interactivos para representar distribución por regiones.
 * Indicadores clave (KPIs) para un resumen rápido de métricas importantes.
+
+## Estructura del Proyecto
+F:.
+│   FundacionPotenciarSolidario_Informe_de_Ingresos_y_Egresos.pbix
+│   fundacion_potenciar_solidario.ipynb
+│   
+├───data
+│   ├───clean
+│   │       activos_limpio.csv
+│   │       donantes_limpio.csv
+│   │       inactivos_limpio.csv
+│   │       proveedores_limpio.csv
+│   │       
+│   └───original
+│           detalles.csv
+│           donantes.csv
+│           proveedores.csv
+│           
+├───resources
+│   └───images
+│           fondo1.jpg
+│           fondo2.jpg
+│           guayerd.png
+│           ibm.png
+│           img_caratula.png
+│           potenciar_solidario.png
+│           
+└───visuals
+        fundacion_potenciar_solidario_INFORME.pdf
+        page_1.jpg
+        page_2.jpg
+        page_3.jpg
+        page_4.jpg
+        page_5.jpg
+        page_6.jpg
+
+En donde en la carpeta "original" se encuentran los datos originales, tal cual fueron entregados por la Fundación, en la carpeta "clean" se encuentran los datos limpios y transformados, en "images" están las imágenes utilizadas para el dashboard en Power BI, y en "visuals" hay elementos visuales para una visualización rápida del informe, como un archivo .pdf e imágenes de las diferentes páginas del mismo.
