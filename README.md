@@ -10,7 +10,7 @@ el armado de un informe interactivo que permita extraer insights valiosos.
 
 ## Herramientas Utilizadas
 * Power BI Desktop para la creación del dashboard interactivo.
-* Python (Jupyter Notebook) para la limpieza, transformación y análisi preliminar de los datos.
+* Python (Jupyter Notebook) para la limpieza, transformación y análisis preliminar de los datos.
 * Pandas, NumPy, Matplotlib y Seaborn: Librerías clave para el manejo de los datos y la generación de grágicos en Python.
 * Archivos CSV como fuente de datos principal para el análisis.
 
